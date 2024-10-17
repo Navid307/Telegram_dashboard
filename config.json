@@ -1,0 +1,8 @@
+{
+    "Telegram": {
+        "polling_period": 5
+    },
+    "logging": {
+        "activate": true
+    }
+}
