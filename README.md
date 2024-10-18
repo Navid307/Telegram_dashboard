@@ -28,7 +28,7 @@ Tested with Docker for Boost version 1.80.0. All the prerequisites mentioned abo
 To run the application using Docker, execute:
 
 ```bash
-docker run -it -v ${PWD}:/workdir/raspberry_pi_monorepo:delegated boost:1.80.0 /bin/bash
+docker run -it -v ${PWD}:/workdir/Telegram_dashboard:delegated boost:1.80.0 /bin/bash
 ```
 
 ## Adding the Application as a Service

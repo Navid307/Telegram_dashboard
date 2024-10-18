@@ -1,2 +1,6 @@
-
 /build
+/libs/Rust/rust_lib/target/release
+/libs/Rust/rust_lib/target/debug
+/libs/Rust/terminal/target/release
+/libs/Rust/terminal/target/debug
+.DS_Store
