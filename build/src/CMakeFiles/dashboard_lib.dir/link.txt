@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdashboard_lib.a CMakeFiles/dashboard_lib.dir/main.cpp.o
-/usr/bin/ranlib libdashboard_lib.a
